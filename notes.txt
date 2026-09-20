@@ -1,0 +1,19 @@
+WEB-01 — Anant Interiors
+Owner/submission folder: WEB-01_RIYA_JAISWAL
+
+WhatsApp:
+The task did not provide a verified Anant Interiors client WhatsApp number. The site therefore uses a clearly labelled DEMO/TEST WhatsApp link to +91 98765 43210. This number must NOT be presented as the client's real number. Replace 919876543210 in index.html with the verified client number when one is supplied.
+
+Submission checklist:
+- One-page responsive site
+- Hero + CTA
+- 3 services
+- 6 project/gallery placeholders
+- About
+- Contact
+- WhatsApp click-to-chat
+- Footer
+- Mobile and desktop section screenshots
+- Source code
+- Public repository/commit history still needs to be created by the student
+- Public hosting URL still needs to be added after deployment
