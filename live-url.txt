@@ -1,1 +1,1 @@
-LIVE URL: Add the public deployed URL here after deployment.
+LIVE URL: https://riyajaiswal5607096-rgb.github.io/anant-interiors-web/
